@@ -1,0 +1,5 @@
+{
+  "name": "BundestagAI - Smart Protocol Analyst",
+  "description": "An advanced interface for searching German Bundestag plenary protocols and analyzing them using Google Gemini 3 Pro and Flash.",
+  "requestFramePermissions": []
+}
