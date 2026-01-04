@@ -1,0 +1,20 @@
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.prose p {
+  margin-bottom: 0.75rem;
+}
+
+.prose code {
+  background: #f8fafc;
+  padding: 0.15rem 0.35rem;
+  border-radius: 0.35rem;
+}
